@@ -1,2 +1,2 @@
-# The Second Git Lab
-## Second Team Member: Also Henry
+# Git Lab 2
+## Team Members: Henry, Also Henry
