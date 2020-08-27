@@ -1,2 +1,2 @@
-# Git Lab #2
-## First team member: Henry Tetlak
+# The Second Git Lab
+## Second Team Member: Also Henry
