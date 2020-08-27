@@ -1,2 +1,2 @@
-# die-class
-Henry Tetlak HenryT-eng ht607919@ohio.edu
+# Git Lab #2
+## First team member: Henry Tetlak
