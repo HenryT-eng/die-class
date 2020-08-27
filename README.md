@@ -1,2 +1,3 @@
-# Git Lab 2
-## Team Members: Henry, Also Henry
+Git Lab 2
+First Team Member:
+Second Team Member: Also Henry
